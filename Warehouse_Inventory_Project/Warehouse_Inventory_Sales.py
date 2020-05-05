@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Apr 28 20:11:17 2020
-
 @author: user
 """
 
@@ -366,24 +365,3 @@ if __name__ == '__main__':
     root = Tk()
     application = Product(root)
     root.mainloop()
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
