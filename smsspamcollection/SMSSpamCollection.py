@@ -4,7 +4,7 @@ Created on Sun May  3 17:59:09 2020
 
 @author: user
 """
-
+"""
 #Mathod 1
 
 import pandas as pd
@@ -29,6 +29,13 @@ combine_data = pd.DataFrame({"label":label,"msg":msg_data})
 combine_data.head()
 
 -----------------------------------------------------------------------------------------------
+"""
+
+
+
+#Project Starts From Here
+
+
 
 
 #Import all libraries
